@@ -31,25 +31,11 @@ pnpm-debug.log*
 *.sublime-workspace
 *.sublime-project
 
+# Public folder (do not track any files in public)
+public/
+
 # Font files
 src/app/assets/fonts/*
-public/assets/fonts/**/*
-
-# Image and media files
-public/assets/imgs/**/*
-
-# CSS and map files
-public/assets/css/**/*.css
-public/assets/css/**/*.map
-
-# Archives and binaries
-**/*.zip
-**/*.tar
-**/*.rar
-**/*.7z
-**/*.exe
-**/*.dll
-**/*.bin
 
 # Misc
 *.swp
