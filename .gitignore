@@ -1,0 +1,5 @@
+
+# Large font files
+src/app/assets/fonts/*.eot
+src/app/assets/fonts/*.ttf
+src/app/assets/fonts/*.svg
